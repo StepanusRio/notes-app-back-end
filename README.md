@@ -37,7 +37,7 @@ notes-app-back-end
     - [x] Web Server Dapat Menyimpan Catatan
     - [x] Web Server Dapat Menampilkan Catatan
     - [x] Web Server Dapat Mengubah Catatan
-    - [ ] Web Server Dapat Menghapus Catatan
+    - [x] Web Server Dapat Menghapus Catatan
 
 -   First Criteria
 
