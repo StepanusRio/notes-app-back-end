@@ -35,9 +35,9 @@ notes-app-back-end
 ---
 # Project Criteria
     - [x] Web Server Dapat Menyimpan Catatan
-    - [ ] Web Server Dapat Menampilkan Catatan
-    - [ ] Web Server Dapat Mengubah Catatan
-    - [ ] Web Server Dapat Menghapus Catatan
+    - [x] Web Server Dapat Menampilkan Catatan
+    - [x] Web Server Dapat Mengubah Catatan
+    - [x] Web Server Dapat Menghapus Catatan
 
 -   First Criteria
 
