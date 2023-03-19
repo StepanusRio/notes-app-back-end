@@ -34,7 +34,7 @@ notes-app-back-end
     Note : Main Branch for production and development for Dev
 ---
 # Project Criteria
-    - [ ] Web Server Dapat Menyimpan Catatan
+    - [x] Web Server Dapat Menyimpan Catatan
     - [ ] Web Server Dapat Menampilkan Catatan
     - [ ] Web Server Dapat Mengubah Catatan
     - [ ] Web Server Dapat Menghapus Catatan
